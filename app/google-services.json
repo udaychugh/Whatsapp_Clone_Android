@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949519333542",
+    "project_id": "utalk-e7463",
+    "storage_bucket": "utalk-e7463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949519333542:android:17b46bc87a8b86bd569c67",
+        "android_client_info": {
+          "package_name": "com.udaychugh.utalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949519333542-onedbkpg13ve77r7dh79ep9peua3aflp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydgaEKb6kMui4s6iuYoZ-0K8d-S_FqV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949519333542-onedbkpg13ve77r7dh79ep9peua3aflp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
